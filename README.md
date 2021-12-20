@@ -3,5 +3,5 @@ We propose an automatic video analysis framework for exposure region recognition
 # Dataset
 Before the dataset expansion is complete, the dataset will not open access and if you need basic version dataset for academic research, please send us a email for getting it.
 ## Basic Version Annotation
-![image](./Annotation/test.PNG)
+![image](./Annotation/combine.PNG)
 ## Annotion Demo
