@@ -11,7 +11,7 @@ Before the dataset expansion is complete, the dataset will not open access and i
 In the paper, we conduct extensive experiments to test the performance of the proposed method. We present qualitative visualization results of Body Structure Detection and video detection. Among them, Body Structure Detection gives the performance evaluation of the two body detection models, and video detection is used to evaluate the overall performance of the proposed framwork.
 ## Result of Body Structure Detection
 ![image](./Results/frame.PNG)
-<img src="https://github.com/JiaRuiS/AVAF/blob/main/Results/frame.PNG" width="200" height="200" alt="微信小程序"/><br/>
+<img src="https://github.com/JiaRuiS/AVAF/blob/main/Results/frame.PNG" width="900" height="373" alt="微信小程序"/><br/>
 ## Result of video detection
 ![image](./Results/standing.PNG)
 ![image](./Results/lying.PNG)
