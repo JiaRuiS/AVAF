@@ -12,5 +12,5 @@ In the paper, we conduct extensive experiments to test the performance of the pr
 ## Result of Body Structure Detection
 ![image](./Results/frame.PNG)
 ## Result of video detection
-![image](./Results/Video Detection/standing.PNG)
-![image](./Results/Video Detection/lying.PNG)
+![image](./Results/standing.PNG)
+![image](./Results/lying.PNG)
