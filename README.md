@@ -1,5 +1,3 @@
-# AVAF
-An automatic video analysis framework for exposure region recognition in X-ray examination
 # Automatic video analysis framework for exposure region recognition in X-ray imaging automation
 We propose an automatic video analysis framework (AVAF) for exposure region recognition in X-ray examination. In this work, we have constructed a large dataset including body keypoint and body Bbox annotation images. Currently, we are further expanding the annotation categories of the basic version dataset and transforming data format so that it can be accessed more conveniently and quickly.
 # Dataset
