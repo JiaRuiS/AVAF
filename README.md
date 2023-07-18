@@ -18,6 +18,7 @@ In the paper, we conduct extensive experiments to test the performance of the pr
 
 # Citation
 If you find our approaches useful in your research, please consider citing:
+```
 @article{sun2022automatic,
   title={Automatic video analysis framework for exposure region recognition in X-ray imaging automation},
   author={Sun, Jiarui and Wu, Zhan and Yu, Zechen and Chen, Huanji and Du, Changping and Xu, Liang and Zhong, Jian and Feng, Juan and Coatrieux, Gouenou and Coatrieux, Jean-Louis and others},
@@ -28,3 +29,4 @@ If you find our approaches useful in your research, please consider citing:
   year={2022},
   publisher={IEEE}
 }
+```
