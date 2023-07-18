@@ -15,3 +15,16 @@ In the paper, we conduct extensive experiments to test the performance of the pr
 ## Result of video detection
 ![image](./Results/standing.PNG)
 ![image](./Results/lying.PNG)
+
+# Citation
+If you find our approaches useful in your research, please consider citing:
+@article{sun2022automatic,
+  title={Automatic video analysis framework for exposure region recognition in X-ray imaging automation},
+  author={Sun, Jiarui and Wu, Zhan and Yu, Zechen and Chen, Huanji and Du, Changping and Xu, Liang and Zhong, Jian and Feng, Juan and Coatrieux, Gouenou and Coatrieux, Jean-Louis and others},
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  volume={26},
+  number={9},
+  pages={4359--4370},
+  year={2022},
+  publisher={IEEE}
+}
